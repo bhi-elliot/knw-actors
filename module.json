@@ -46,10 +46,10 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/JPMeehan/knw-actors",
-  "readme": "https://github.com/JPMeehan/knw-actors/blob/main/README.md",
-  "bugs": "https://github.com/JPMeehan/knw-actors/issues",
-  "changelog": "https://github.com/JPMeehan/knw-actors/blob/main/CHANGELOG.md",
+  "url": "https://github.com/bhi-elliot/knw-actors-BHi",
+  "readme": "https://github.com/bhi-elliot/knw-actors-BHi/blob/main/README.md",
+  "bugs": "https://github.com/bhi-elliot/knw-actors-BHi/issues",
+  "changelog": "https://github.com/bhi-elliot/knw-actors-BHi/blob/main/CHANGELOG.md",
   "download": "#{DOWNLOAD}#",
-  "manifest": "https://github.com/JPMeehan/knw-actors/releases/latest/download/module.json"
+  "manifest": "https://github.com/bhi-elliot/knw-actors-BHi/releases/latest/download/module.json"
 }
